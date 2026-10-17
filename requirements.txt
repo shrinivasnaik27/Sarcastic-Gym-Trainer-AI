@@ -1,0 +1,4 @@
+ollama
+
+Install the dependency with:
+pip install -r requirements.txt
